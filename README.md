@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 💬 Ask me about Python, Kubernetes, Golang
+- 📫 How to reach me: send me an email.
+- 
 <!--
 **nik-hil/nik-hil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,5 +24,4 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END --
 
-- 💬 Ask me about Python, Kubernetes, Golang
-- 📫 How to reach me: send me an email.
+
