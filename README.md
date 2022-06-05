@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![](https://hit.yhype.me/github/profile?user_id=5484965)
+![](https://komarev.com/ghpvc/?username=nik-hil&color=green)
+
 - 💬 Ask me about Python, Kubernetes, Golang
 - 📫 How to reach me: send me an email.
