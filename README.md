@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Golang error handling](https://nik-hil.github.io/2022/11/26/Golang-error-handling.html)
 - [Simple Go app with docker](https://nik-hil.github.io/2022/06/04/Simple-go-app-with-docker.html)
 - [Suggest meme with AI](https://nik-hil.github.io/2022/06/02/startup-ideas-1.html)
 - [Deploy flower classifier as web app on GCP Run](https://nik-hil.github.io/2020/05/04/Deploy-flower-classifier-as-web-app-on-GCP-Run.html)
 - [How to resize images in large numbers](https://nik-hil.github.io/2019/08/02/how-to-resize-image-in-large-numbers.html)
-- [Design Anchor Boxes for Object Detection](https://nik-hil.github.io/2019/06/29/Design-Anchor-Boxes-for-Object-Detection.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Support 
