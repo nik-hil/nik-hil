@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Golang Mapping Two Keys to a Single Member in JSON Struct](https://nik-hil.github.io/2023/06/08/Golang-Mapping-Two-Keys-to-a-Single-Member-in-JSON-Struct.html)
 - [Golang Journey Part 1](https://nik-hil.github.io/2023/03/04/Golang-Journey-Part1.html)
 - [Golang error handling](https://nik-hil.github.io/2022/11/26/Golang-error-handling.html)
 - [Simple Go app with docker](https://nik-hil.github.io/2022/06/04/Simple-go-app-with-docker.html)
 - [Suggest meme with AI](https://nik-hil.github.io/2022/06/02/startup-ideas-1.html)
-- [Deploy flower classifier as web app on GCP Run](https://nik-hil.github.io/2020/05/04/Deploy-flower-classifier-as-web-app-on-GCP-Run.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Support 
